@@ -51,6 +51,10 @@ gradle-wrapper.jar
 /local.properties
 GeneratedPluginRegistrant.java
 
-key.properties
-**/*.keystore
-**/*.jks
+# Keystore files (ensure all keystore files are ignored)
+*.keystore
+*.jks
+android/key.properties
+android/**/key.properties
+android/**/*.keystore
+android/**/*.jks

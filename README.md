@@ -1,4 +1,3 @@
 # Aris News
 
-Aris News publishes news concerning the Aris team in both Football and Basketball.
-
+Aris News is an app that publishes news concerning the Aris team, both in Football and Basketball.

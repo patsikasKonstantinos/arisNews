@@ -58,3 +58,4 @@ android/key.properties
 android/**/key.properties
 android/**/*.keystore
 android/**/*.jks
+*.lock
